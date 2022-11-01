@@ -1,0 +1,43 @@
+body{
+
+}
+.head1{
+	background: url(../img/1660061329567.jpg);
+	height: 430px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+	margin-top:9%;
+}
+.icon{
+	font-size: 83px !important;
+}
+.sary{
+	    width: 537px;
+    height: 309px;
+    margin-left: -12px;
+}
+.pr{
+	margin-top: 3%;
+}
+.red0{
+	padding-top: 5%;
+	cursor: pointer;
+
+
+}
+.sary1{
+	width: 354px;
+    height: 300px;
+}
+.icon1{
+font-size: 37px !important;	
+}
+.e{
+	color: white;
+}
+.card-body:hover{
+background: black;
+color: white;
+
+}
